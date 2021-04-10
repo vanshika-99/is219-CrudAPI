@@ -28,3 +28,19 @@ http://www.webizly.com/BasicWebPack/
 Based on this tutorial:
 
 https://medium.com/@rahulguptalive/create-crud-apis-in-nodejs-express-and-mysql-abda4dfc2d6
+
+
+
+**Postman Screenshots for the API CRUD Homework**
+
+
+*Add new city named Tokyo-New:*
+![img.png](src/img/screenshot1.png)
+
+
+*Delete id=237*
+![img.png](src/img/screenshot2.png)
+
+
+*Updated name of the city from 'Tokyo' to 'Tokyo-updated'*
+![img.png](src/img/screenshot3.png)
