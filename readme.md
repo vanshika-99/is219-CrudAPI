@@ -43,4 +43,3 @@ https://medium.com/@rahulguptalive/create-crud-apis-in-nodejs-express-and-mysql-
 
 
 *Updated name of the city from 'Tokyo' to 'Tokyo-updated'*
-![img_1.png](src/img/screenshot3.png)
